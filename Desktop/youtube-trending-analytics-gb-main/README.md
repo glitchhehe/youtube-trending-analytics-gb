@@ -1,0 +1,1 @@
+# YouTube Trending Video Analyzer\n\nDataset: GBvideos.csv.\n\n## Run Instructions\n1. Install dependencies: pandas, numpy, matplotlib.\n2. Run the Jupyter Notebook: YouTube_Trending_GB_Analyzer.ipynb
