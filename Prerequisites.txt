@@ -1,0 +1,2 @@
+Step 1: Upload the ipynb into the program e.g Jupyter Notebook
+Step 2: Upload the dataset (GBvideos.csv) into the same path as the ipynb (because the path is set to default)
